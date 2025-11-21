@@ -1,6 +1,6 @@
 const API_URL = 'https://jsonplaceholder.typicode.com'
 
-// Datos mockeados para Entrega 1 (requisito: constante con datos falsos)
+// Datos de ejemplo
 const MOCK_CHATS = [
   { id: 1, name: 'Juan Pérez', lastMessage: 'Hola, ¿cómo estás?' },
   { id: 2, name: 'María García', lastMessage: 'Nos vemos mañana' },

@@ -31,7 +31,6 @@ function ChatDetail({ chat, onClose }) {
     }
   }
 
-
   return (
     <div className="chat-detail">
       <div className="chat-detail-header">
